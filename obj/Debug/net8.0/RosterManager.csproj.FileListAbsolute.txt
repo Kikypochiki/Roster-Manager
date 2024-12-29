@@ -1,0 +1,14 @@
+C:\Users\Dohnm\OneDrive\Documents\School\2nd Year\2nd Sem\OOP refresher\C# projects\RosterManager\RosterManager\RosterManager\obj\Debug\net8.0\RosterManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dohnm\OneDrive\Documents\School\2nd Year\2nd Sem\OOP refresher\C# projects\RosterManager\RosterManager\RosterManager\obj\Debug\net8.0\RosterManager.AssemblyInfoInputs.cache
+C:\Users\Dohnm\OneDrive\Documents\School\2nd Year\2nd Sem\OOP refresher\C# projects\RosterManager\RosterManager\RosterManager\obj\Debug\net8.0\RosterManager.AssemblyInfo.cs
+C:\Users\Dohnm\OneDrive\Documents\School\2nd Year\2nd Sem\OOP refresher\C# projects\RosterManager\RosterManager\RosterManager\obj\Debug\net8.0\RosterManager.csproj.CoreCompileInputs.cache
+C:\Users\Dohnm\OneDrive\Documents\School\2nd Year\2nd Sem\OOP refresher\C# projects\RosterManager\RosterManager\RosterManager\bin\Debug\net8.0\RosterManager.exe
+C:\Users\Dohnm\OneDrive\Documents\School\2nd Year\2nd Sem\OOP refresher\C# projects\RosterManager\RosterManager\RosterManager\bin\Debug\net8.0\RosterManager.deps.json
+C:\Users\Dohnm\OneDrive\Documents\School\2nd Year\2nd Sem\OOP refresher\C# projects\RosterManager\RosterManager\RosterManager\bin\Debug\net8.0\RosterManager.runtimeconfig.json
+C:\Users\Dohnm\OneDrive\Documents\School\2nd Year\2nd Sem\OOP refresher\C# projects\RosterManager\RosterManager\RosterManager\bin\Debug\net8.0\RosterManager.dll
+C:\Users\Dohnm\OneDrive\Documents\School\2nd Year\2nd Sem\OOP refresher\C# projects\RosterManager\RosterManager\RosterManager\bin\Debug\net8.0\RosterManager.pdb
+C:\Users\Dohnm\OneDrive\Documents\School\2nd Year\2nd Sem\OOP refresher\C# projects\RosterManager\RosterManager\RosterManager\obj\Debug\net8.0\RosterManager.dll
+C:\Users\Dohnm\OneDrive\Documents\School\2nd Year\2nd Sem\OOP refresher\C# projects\RosterManager\RosterManager\RosterManager\obj\Debug\net8.0\refint\RosterManager.dll
+C:\Users\Dohnm\OneDrive\Documents\School\2nd Year\2nd Sem\OOP refresher\C# projects\RosterManager\RosterManager\RosterManager\obj\Debug\net8.0\RosterManager.pdb
+C:\Users\Dohnm\OneDrive\Documents\School\2nd Year\2nd Sem\OOP refresher\C# projects\RosterManager\RosterManager\RosterManager\obj\Debug\net8.0\RosterManager.genruntimeconfig.cache
+C:\Users\Dohnm\OneDrive\Documents\School\2nd Year\2nd Sem\OOP refresher\C# projects\RosterManager\RosterManager\RosterManager\obj\Debug\net8.0\ref\RosterManager.dll
